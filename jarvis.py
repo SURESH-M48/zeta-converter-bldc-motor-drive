@@ -7,7 +7,7 @@ import subprocess
 # -------------------------
 # SETTINGS
 # -------------------------
-THRESHOLD = 0.7   # Adjust if needed
+THRESHOLD = 0.9   # Adjust if needed
 COOLDOWN = 4      # Seconds between triggers
 
 last_trigger_time = 0
