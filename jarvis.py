@@ -3,12 +3,12 @@ import numpy as np
 import os
 import time
 import subprocess
-# version 3.0
+# Version 1.2
 # -------------------------
 # SETTINGS
 # -------------------------
-THRESHOLD = 0.7   # Adjust if needs
-COOLDOWN = 4      # Seconds between triggers okay
+THRESHOLD = 0.7   # Adjust if needed
+COOLDOWN = 4      # Seconds between triggers
 
 last_trigger_time = 0
 
