@@ -3,7 +3,7 @@ import numpy as np
 import os
 import time
 import subprocess
-# version 2.0
+# version 3.0
 # -------------------------
 # SETTINGS
 # -------------------------
